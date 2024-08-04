@@ -1,7 +1,7 @@
 # Task Quill
 
 Task Management Application built using Flutter Dart and SQFLITE.
-There are some packages used in it so better use "flutter pub get" to download them and then run the application.
+There are some external packages used in it so better use "flutter pub get" to download them and then run the application.
 
 ## Getting Started
 
